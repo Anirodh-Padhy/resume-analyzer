@@ -1,0 +1,39 @@
+python
+java
+machine learning
+deep learning
+sql
+excel
+power bi
+data analysis
+nlp
+computer vision
+tensorflow
+pandas
+numpy
+react
+nodejs
+flask
+streamlit
+docker
+kubernetes
+aws
+gcp
+azure
+git
+github
+linux
+scikit-learn
+opencv
+xgboost
+lightgbm
+matplotlib
+seaborn
+tableau
+spark
+hadoop
+rest api
+fastapi
+html
+css
+javascript
